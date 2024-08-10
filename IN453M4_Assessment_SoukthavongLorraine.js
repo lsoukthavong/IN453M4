@@ -1,3 +1,4 @@
+
 const { Semaphore } = require('async-mutex');
 
 // Class to manage dressing rooms using a semaphore
